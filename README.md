@@ -1,6 +1,6 @@
 ## <center><p align = "center"> :v: </p> </center>
 
-![alt text](http://url/to/img.png)
+![alt text](assets/20240131_1225262.gif)
 
 
 
