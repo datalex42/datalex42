@@ -1,5 +1,3 @@
-## <center><p align = "center"> :v: </p> </center>
-
 ![alt text](assets/header.gif)
 
 <hr>
