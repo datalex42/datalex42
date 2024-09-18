@@ -7,7 +7,7 @@ Hello! I'm Alex, a social scientist who has acquired data science skills through
 
 <hr>
 
-## <center><p align = "center"> ⬇️ Check Out My Data Science Projects ⬇️ </p> </center>
+## <center><p align = "center"> ⬇️ Check Out My Repos ⬇️ </p> </center>
 
 
 
