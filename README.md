@@ -1,5 +1,3 @@
-![alt text](assets/header.gif)
-
 <hr>
 
  <center><p align = "center"> :wave:
